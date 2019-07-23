@@ -1,4 +1,5 @@
-<img align="left" src="./Wind park Pikku Berliini.png" width="800" > ![](./Wind park Pikku Berliini.png)
+<img align="left" src="./Wind park Pikku Berliini.png" width="800" >
+
 # Wind power park site planning project - Pikku Berliini
 
 #### Authors:  Ap Anttila, Khanh Dao, Marcel Schepers
