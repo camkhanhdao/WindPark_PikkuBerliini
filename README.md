@@ -1,4 +1,4 @@
-![wind park map](./Wind park Pikku Berliini.png)
+![wind-park-map](./Wind park Pikku Berliini.png)
 # Wind power park site planning project - Pikku Berliini
 
 #### Authors:  Ap Anttila, Khanh Dao, Marcel Schepers
